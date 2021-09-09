@@ -1,0 +1,9 @@
+.tabuadas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tabuada {
+    margin: 5px;
+}
